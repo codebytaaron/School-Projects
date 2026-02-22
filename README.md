@@ -1,2 +1,1 @@
-# School-
-School Projects 
+Projects that are comeplted for school. 
