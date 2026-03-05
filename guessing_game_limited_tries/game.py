@@ -1,4 +1,4 @@
-import 
+import random
 
 print("Welcome to the Guessing Game!")
 
