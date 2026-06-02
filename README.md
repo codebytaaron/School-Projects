@@ -8,3 +8,5 @@ The projects focus on practicing basic Python concepts such as:
 - conditionals
 - user input
 - simple program logic
+
+Thank you!
