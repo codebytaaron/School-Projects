@@ -1,4 +1,4 @@
 # School Python Projects
 
-Projects that I made in class while learning Python.
+Projects that I made for class while learning Python.
 
