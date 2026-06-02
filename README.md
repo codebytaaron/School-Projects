@@ -1,12 +1,4 @@
 # School Python Projects
 
-This repository contains small Python projects I built for school while learning programming fundamentals.
+Projects that I made in class while learning Python.
 
-The projects focus on practicing basic Python concepts such as:
-- variables
-- loops
-- conditionals
-- user input
-- simple program logic
-
-Thank you!
