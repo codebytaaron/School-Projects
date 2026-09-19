@@ -11,7 +11,6 @@ total = 0
 for score in scores:
     total = total + score
 
-
 # calculate average
 average = total / len(scores)
 
